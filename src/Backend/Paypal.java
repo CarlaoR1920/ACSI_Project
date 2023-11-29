@@ -1,3 +1,7 @@
+package Backend;
+
+import Backend.Pagamento;
+
 public class Paypal extends Pagamento {
     private String email;
 

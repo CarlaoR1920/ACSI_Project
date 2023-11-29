@@ -1,3 +1,5 @@
+package Backend;
+
 public class Oferta {
     private int id_oferta;
     private int n_tokens;

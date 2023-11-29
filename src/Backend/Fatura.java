@@ -1,3 +1,7 @@
+package Backend;
+
+import Backend.Compra;
+
 public class Fatura {
     private Compra compra;
     private int nif;

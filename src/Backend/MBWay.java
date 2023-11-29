@@ -1,4 +1,6 @@
-public class MBWay extends Pagamento{
+package Backend;
+
+public class MBWay extends Pagamento {
     private int telemovel;
 
     public MBWay() {

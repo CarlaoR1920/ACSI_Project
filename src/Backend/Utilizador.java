@@ -1,3 +1,5 @@
+package Backend;
+
 public class Utilizador {
     private String email;
     private String password;

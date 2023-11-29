@@ -1,6 +1,10 @@
+package Backend;
+
+import Backend.TituloDeTransporte;
+
 import java.sql.Date;
 
-public class PasseMensal extends TituloDeTransporte{
+public class PasseMensal extends TituloDeTransporte {
     private Date data_validade;
 
     public PasseMensal() {

@@ -1,3 +1,7 @@
+package Backend;
+
+import Backend.Horario;
+
 import java.util.ArrayList;
 
 public class Rota {

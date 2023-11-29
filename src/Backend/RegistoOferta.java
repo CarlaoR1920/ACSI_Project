@@ -1,3 +1,5 @@
+package Backend;
+
 import java.sql.Date;
 
 public class RegistoOferta {

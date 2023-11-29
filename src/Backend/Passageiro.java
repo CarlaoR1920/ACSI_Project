@@ -1,4 +1,7 @@
-import java.sql.Date;
+package Backend;
+
+import Backend.Fatura;
+
 import java.util.ArrayList;
 
 public class Passageiro extends Utilizador {
