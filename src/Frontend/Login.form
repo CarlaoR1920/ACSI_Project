@@ -91,20 +91,22 @@
           </vspacer>
         </children>
       </grid>
-      <component id="89d5e" class="javax.swing.JButton" binding="button1" default-binding="true">
+      <component id="89d5e" class="javax.swing.JButton" binding="registarButton" default-binding="true">
         <constraints>
           <grid row="4" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Segoe Print" size="14" style="1"/>
+          <text value="Registar"/>
         </properties>
       </component>
-      <component id="ca868" class="javax.swing.JButton" binding="button2" default-binding="true">
+      <component id="ca868" class="javax.swing.JButton" binding="loginButton" default-binding="true">
         <constraints>
           <grid row="4" column="2" row-span="1" col-span="1" vsize-policy="0" hsize-policy="3" anchor="0" fill="1" indent="0" use-parent-layout="false"/>
         </constraints>
         <properties>
-          <text value="Button"/>
+          <font name="Segoe Print" size="14" style="1"/>
+          <text value="Login"/>
         </properties>
       </component>
     </children>

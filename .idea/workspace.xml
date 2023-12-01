@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4b60ced8-6b3a-4bc0-ba81-104a9056b060" name="Changes" comment="main" />
+    <list default="true" id="4b60ced8-6b3a-4bc0-ba81-104a9056b060" name="Changes" comment="main">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frontend/Login.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Login.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frontend/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Login.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -25,6 +29,20 @@
       </list>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "josepereira5"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="88e689ec-9407-4e2d-9061-14fc77753e74" />
+        <option name="url" value="https://github.com/CarlaoR1920/ACSI_Project.git" />
+      </UrlAndAccount>
+    </option>
   </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
@@ -65,7 +83,7 @@
       <updated>1701217802104</updated>
       <workItem from="1701217803150" duration="773000" />
       <workItem from="1701265213763" duration="1667000" />
-      <workItem from="1701443136034" duration="6764000" />
+      <workItem from="1701443136034" duration="6943000" />
     </task>
     <task id="LOCAL-00001" summary="1234">
       <option name="closed" value="true" />
@@ -115,7 +133,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701450221883</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="main">
+      <option name="closed" value="true" />
+      <created>1701450252611</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1701450252611</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
