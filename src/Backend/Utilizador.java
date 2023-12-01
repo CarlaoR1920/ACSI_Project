@@ -13,7 +13,7 @@ public class Utilizador {
     }
 
     public void setUsername(String username) {
-        this.username = username;
+        this.username = usernam;
     }
 
     public String getEmail() {
