@@ -5,26 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b60ced8-6b3a-4bc0-ba81-104a9056b060" name="Changes" comment="main">
-      <change afterPath="$PROJECT_DIR$/src/Frontend/Login.form" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Backend/RepositorioUtilizadores.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Frontend/Login.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tub.jpg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Administrador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Administrador.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Bilhete.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Bilhete.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Compra.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Compra.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Fatura.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Fatura.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Horario.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Horario.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MBWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/MBWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Oferta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Oferta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Pagamento.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Pagamento.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Passageiro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Passageiro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/PasseMensal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/PasseMensal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Paypal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Paypal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/ReferenciaBancaria.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/ReferenciaBancaria.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegistoOferta.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/RegistoOferta.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Rota.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Rota.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TituloDeTransporte.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/TituloDeTransporte.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Utilizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Utilizador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/Utilizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Utilizador.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frontend/Login.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Login.form" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,8 +46,8 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "136",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "259",
+    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "125",
+    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "270",
     "WebServerToolWindowFactoryState": "false",
     "git-widget-placeholder": "master",
     "node.js.detected.package.eslint": "true",
@@ -71,6 +57,11 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Asus\IdeaProjects\ACSI_Project\src" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -80,7 +71,8 @@
       <option name="presentableId" value="Default" />
       <updated>1701217802104</updated>
       <workItem from="1701217803150" duration="773000" />
-      <workItem from="1701265213763" duration="1040000" />
+      <workItem from="1701265213763" duration="1667000" />
+      <workItem from="1701443136034" duration="6746000" />
     </task>
     <task id="LOCAL-00001" summary="1234">
       <option name="closed" value="true" />
@@ -106,7 +98,23 @@
       <option name="project" value="LOCAL" />
       <updated>1701218450206</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="main">
+      <option name="closed" value="true" />
+      <created>1701266866825</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1701266866825</updated>
+    </task>
+    <task id="LOCAL-00005" summary="main">
+      <option name="closed" value="true" />
+      <created>1701266884680</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1701266884680</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
