@@ -23,6 +23,7 @@ public class Login extends JFrame{
         registarBtn.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
+                dispose();
                 Registar registar = new Registar();
                 registar.setVisible(true);
             }

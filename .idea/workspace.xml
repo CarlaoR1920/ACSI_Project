@@ -5,11 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4b60ced8-6b3a-4bc0-ba81-104a9056b060" name="Changes" comment="ai vai">
-      <change afterPath="$PROJECT_DIR$/src/Frontend/Registar.form" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Frontend/Registar.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Frontend/Login.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Login.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Backend/Utilizador.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Backend/Utilizador.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Frontend/Login.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Login.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frontend/Registar.form" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Registar.form" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Frontend/Registar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Frontend/Registar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,23 +55,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH": "125",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW": "true",
-    "UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH": "270",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "C:/Users/Asus/IdeaProjects/ACSI_Project/src/Frontend",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH&quot;: &quot;125&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.SHOW&quot;: &quot;true&quot;,
+    &quot;UI_DESIGNER_EDITOR_MODE.UIDesignerToolWindowManager.WIDTH&quot;: &quot;270&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Asus/IdeaProjects/ACSI_Project/src/Frontend&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Asus\IdeaProjects\ACSI_Project\src\Frontend" />
@@ -112,7 +112,8 @@
       <workItem from="1701265213763" duration="1667000" />
       <workItem from="1701443136034" duration="6965000" />
       <workItem from="1701450453192" duration="3885000" />
-      <workItem from="1701522743197" duration="3983000" />
+      <workItem from="1701522743197" duration="4330000" />
+      <workItem from="1701537643190" duration="3828000" />
     </task>
     <task id="LOCAL-00001" summary="1234">
       <option name="closed" value="true" />
@@ -210,7 +211,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701454389033</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="ai vai">
+      <option name="closed" value="true" />
+      <created>1701528573989</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1701528573990</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

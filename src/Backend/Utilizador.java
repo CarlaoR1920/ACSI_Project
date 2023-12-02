@@ -4,8 +4,17 @@ public class Utilizador {
     private String username;
     private String email;
     private String password;
+    private String nome;
 
     public Utilizador() {
+    }
+
+    public String getNome() {
+        return nome;
+    }
+
+    public void setNome(String nome) {
+        this.nome = nome;
     }
 
     public String getUsername() {

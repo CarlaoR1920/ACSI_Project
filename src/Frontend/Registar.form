@@ -41,7 +41,7 @@
             </properties>
             <border type="none"/>
             <children>
-              <component id="35576" class="javax.swing.JLabel">
+              <component id="35576" class="javax.swing.JLabel" binding="tfNome">
                 <constraints>
                   <grid row="1" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -51,7 +51,7 @@
                   <text value="Nome:"/>
                 </properties>
               </component>
-              <component id="2d501" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+              <component id="2d501" class="javax.swing.JTextField" binding="fdNome">
                 <constraints>
                   <grid row="1" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                     <preferred-size width="150" height="-1"/>
@@ -61,7 +61,7 @@
                   <background color="-1"/>
                 </properties>
               </component>
-              <component id="dd20a" class="javax.swing.JTextField" binding="textField2" default-binding="true">
+              <component id="dd20a" class="javax.swing.JTextField" binding="fdUser">
                 <constraints>
                   <grid row="2" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
                     <preferred-size width="150" height="-1"/>
@@ -71,7 +71,7 @@
                   <background color="-1"/>
                 </properties>
               </component>
-              <component id="9da47" class="javax.swing.JLabel">
+              <component id="9da47" class="javax.swing.JLabel" binding="tfEmail">
                 <constraints>
                   <grid row="3" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -91,7 +91,7 @@
                   <background color="-1"/>
                 </properties>
               </component>
-              <component id="c06f7" class="javax.swing.JLabel">
+              <component id="c06f7" class="javax.swing.JLabel" binding="tfPass">
                 <constraints>
                   <grid row="4" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -122,7 +122,7 @@
                   <text value="REGISTA-TE"/>
                 </properties>
               </component>
-              <component id="d25b4" class="javax.swing.JLabel">
+              <component id="d25b4" class="javax.swing.JLabel" binding="tfUser">
                 <constraints>
                   <grid row="2" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="0" fill="0" indent="0" use-parent-layout="false"/>
                 </constraints>
@@ -130,6 +130,27 @@
                   <font name="Segoe Print" size="18" style="1"/>
                   <foreground color="-1"/>
                   <text value="Username:"/>
+                </properties>
+              </component>
+              <component id="271c6" class="javax.swing.JLabel" binding="tfConfPass">
+                <constraints>
+                  <grid row="5" column="0" row-span="1" col-span="1" vsize-policy="0" hsize-policy="0" anchor="8" fill="0" indent="0" use-parent-layout="false"/>
+                </constraints>
+                <properties>
+                  <font name="Segoe Print" size="18" style="1"/>
+                  <foreground color="-1"/>
+                  <text value="Confirmar Password:"/>
+                </properties>
+              </component>
+              <component id="be3ab" class="javax.swing.JTextField" binding="textField1" default-binding="true">
+                <constraints>
+                  <grid row="5" column="1" row-span="1" col-span="1" vsize-policy="0" hsize-policy="6" anchor="8" fill="1" indent="0" use-parent-layout="false">
+                    <preferred-size width="150" height="-1"/>
+                  </grid>
+                </constraints>
+                <properties>
+                  <background color="-1"/>
+                  <foreground color="-1"/>
                 </properties>
               </component>
             </children>
